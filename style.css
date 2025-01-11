@@ -112,13 +112,19 @@ img {
     width: 585px;
     padding-bottom: 50px;
     border-radius: 35px;
-    margin-top: -180px;
+    margin-top: -140px;
     margin-right: 70px;
 }
 
 .socials {
     display: inline;
-    margin: 25px 150px 0; 
-    
+    margin: 18px 1px 25px; 
+}
+
+.social-img {
+    width: 42px;
+    height: 42px;
+    padding: 0;
+    margin-right: 20px;
 }
 
