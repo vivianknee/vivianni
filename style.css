@@ -88,7 +88,7 @@ nav li:first-child {
 
 .intro {
     width: 600px;
-    font-size: 30px;
+    font-size: 25px;
     font-family: "Aleo", serif;
     font-weight: 350;
     word-wrap: break-word;
@@ -108,8 +108,8 @@ nav li:first-child {
 }
 
 img {
-    height: 625px;
-    width: 585px;
+    height: 595px;
+    width: 555px;
     padding-bottom: 50px;
     border-radius: 35px;
     margin-top: -140px;
