@@ -33,7 +33,7 @@ nav li {
 
 nav a {
     height: 100%;
-    padding: 0 30px;
+    padding: 0 22px;
     text-decoration: none;
     display: flex;
     align-items: center;
@@ -63,7 +63,7 @@ nav li:first-child {
 }
 
 .resume {
-    font-size: 20px;
+    font-size: 12px;
     font-family: "Roboto Flex", serif;
     font-weight: 200;
     border-radius: 28px;
@@ -113,7 +113,7 @@ img {
     padding-bottom: 50px;
     border-radius: 35px;
     margin-top: -140px;
-    margin-right: 55px;
+    margin-right: 45px;
 }
 
 .socials {
@@ -122,8 +122,8 @@ img {
 }
 
 .social-img {
-    width: 42px;
-    height: 42px;
+    width: 30px;
+    height: 30px;
     padding: 0;
     margin-right: 20px;
 }
