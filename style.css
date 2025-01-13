@@ -27,13 +27,13 @@ nav ul {
 }
 
 nav li {
-    height: 125px;
+    height: 95px;
     
 }
 
 nav a {
     height: 100%;
-    padding: 0 22px;
+    padding: 0 30px;
     text-decoration: none;
     display: flex;
     align-items: center;
@@ -41,7 +41,7 @@ nav a {
 }
 
 .tabs {
-    font-size: 12px;
+    font-size: 17px;
     font-family: "Roboto Flex", serif;
     font-weight: 200;
 }
@@ -55,7 +55,7 @@ nav li:first-child {
 }
 
 .main-tab {
-    font-size: 15px;
+    font-size: 20px;
     font-family: "Aleo", serif;
     font-weight: 300;
     margin-left: 20px;
@@ -63,7 +63,7 @@ nav li:first-child {
 }
 
 .resume {
-    font-size: 12px;
+    font-size: 17px;
     font-family: "Roboto Flex", serif;
     font-weight: 200;
     border-radius: 28px;
