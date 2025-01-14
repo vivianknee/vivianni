@@ -128,3 +128,81 @@ img {
     margin-right: 20px;
 }
 
+/* project css */
+
+.project-label {
+    width: 700px;
+    font-size: 75px;
+    font-family: "Aleo", serif;
+    font-weight: 400;
+    margin-left: 150px;
+    margin-top: 160px;
+    padding-bottom: 25px;
+}
+
+.github-btns {
+    display: inline;
+    margin: 18px 1px 25px; 
+    width: 700px;
+}
+
+.btn {
+    font-size: 17px;
+    font-family: "Roboto Flex", serif;
+    font-weight: 200;
+    border-radius: 28px;
+    background-color: #FEFFE9;
+    color: #2E3105;
+    width: 250px;
+    padding: 15px 16px;
+    margin-right: 66px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.video {
+    height: 500px;
+    width: 750px;
+    padding-bottom: 50px;
+    margin-top: -165px;
+    margin-right: -10px;
+}
+
+.A {
+    background-color: #DFE777;
+
+}
+
+.B {
+    background-color: #B8BC7F;
+}
+
+.A, .B {
+    padding-top: 1px;
+    padding-bottom: 40px;
+    border-bottom: 2px solid black;
+}
+
+.project-section {
+    display: flex;
+    flex-direction: column; 
+    max-width: 600px; 
+}
+
+.project-img {
+    height: 450px;
+    width: 620px;
+    border-radius: 0%;
+    margin-left: -80px;
+}
+
+.ptext {
+    width: 650px;
+    font-size: 22px;
+    font-family: "Aleo", serif;
+    font-weight: 350;
+    word-wrap: break-word;
+    margin-bottom: 20px;
+}
