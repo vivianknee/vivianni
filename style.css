@@ -107,7 +107,7 @@ nav li:first-child {
     max-width: 600px; 
 }
 
-img {
+.index-img {
     height: 530px;
     width: 490px;
     padding-bottom: 50px;
@@ -203,6 +203,13 @@ img {
     width: 520px;
     border-radius: 0%;
     margin-left: -80px;
+}
+
+.project-img-square {
+    height: 520px;
+    width: 520px;
+    border-radius: 0%;
+    margin-left: -100px;
 }
 
 .ptext {
