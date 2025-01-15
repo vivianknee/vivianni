@@ -76,6 +76,11 @@ nav li:first-child {
     vertical-align: middle;
 }
 
+.resume-btn {
+    border: none;
+    background-color: rgba(255,255,255,0);
+}
+
 .name {
     font-size: 75px;
     font-family: "Aleo", serif;

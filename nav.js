@@ -9,7 +9,7 @@ class MyHeader extends HTMLElement{
                 <li><a class="tabs" href="professional-development.html">Professional Development</a></li>
                 <li><a class="tabs" href="projects.html">Projects</a></li>
                 <li><a class="tabs" href="index.html">Home</a></li>
-                <button><a class="resume" href="Vivian Ni.pdf" target="_blank">Resume</a></button>
+                <button class="resume-btn"><a class="resume" href="Vivian Ni.pdf" target="_blank">Resume</a></button>
             </ul>
         </nav>
         `
