@@ -131,8 +131,8 @@ img {
 /* project css */
 
 .project-label {
-    width: 700px;
-    font-size: 75px;
+    width: 650px;
+    font-size: 60px;
     font-family: "Aleo", serif;
     font-weight: 400;
     margin-left: 150px;
@@ -153,7 +153,7 @@ img {
     border-radius: 28px;
     background-color: #FEFFE9;
     color: #2E3105;
-    width: 250px;
+    width: 200px;
     padding: 15px 16px;
     margin-right: 66px;
     text-align: center; 
@@ -199,8 +199,8 @@ img {
 }
 
 .ptext {
-    width: 650px;
-    font-size: 22px;
+    width: 620px;
+    font-size: 18px;
     font-family: "Aleo", serif;
     font-weight: 350;
     word-wrap: break-word;
