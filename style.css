@@ -203,7 +203,7 @@ nav li:first-child {
     border-radius: 0%;
     margin-left: -80px;
     padding-bottom: 30px;
-    margin-top: -80px;
+    margin-top: -150px;
 }
 
 .project-img-square {
@@ -212,7 +212,7 @@ nav li:first-child {
     border-radius: 0%;
     margin-left: -100px;
     padding-bottom: 30px;
-    margin-top: -150px;
+    margin-top: -200px;
 }
 
 .ptext {
