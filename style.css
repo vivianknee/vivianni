@@ -368,3 +368,184 @@ nav li:first-child {
 .insta {
     margin-right: 500px;;
 }
+
+/* hackathon css */
+
+h1 {
+    margin: 0;
+}
+
+#hack {
+    padding: 2rem;
+    text-align: center;
+    color: #fff;
+}
+
+.hack-title {
+    width: 100%;
+    font-size: 60px;
+    font-family: "Aleo", serif;
+    font-weight: 400;
+    margin-left: 12px;
+    margin-top: 60px;
+    color: black;
+    padding-bottom: 40px;
+}
+
+#hack > div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: #FEFFE9;
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.hack-text {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    text-align: justify;
+    margin: 0;
+    font-family: "Roboto Flex", serif;
+    font-weight: 200;
+    color: black;
+    width: 750px;
+}
+
+#hack img {
+    width: 100%;
+    max-width: 400px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+#hack p {
+    font-size: 1rem;
+    color: black;
+    margin-top: 10px;
+    font-family: "Roboto Flex", serif;
+    font-weight: 200;
+}
+
+#problem-statement {
+    padding: 2rem;
+    text-align: center;
+}
+
+.section-title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    color: #333;
+    font-family: "Aleo", serif;
+    font-weight: 200;
+    padding-top: 35px;
+}
+
+.boxes-container {
+    display: flex;
+    justify-content: center;
+    gap: 1.5rem;
+    margin-top: 1rem;
+}
+
+.box {
+    width: 270px;
+    height: 150px;  
+    padding: 10px;  
+    background-color: #2E3105;
+    color: #fff;
+    font-size: 18px;  
+    font-weight: normal;  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;  
+    word-wrap: break-word;  
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    font-family: "Roboto Flex", serif;
+}
+
+.item {
+    width: 100%;
+    max-width: 1000px;
+    height: auto;
+    background-color: #FEFFE9;
+    color: #333;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-size: 1rem;
+    line-height: 1.8;
+    font-family: "Roboto Flex", serif;
+    text-align: left;
+    margin: 1rem auto; 
+    padding: 1rem;
+}
+
+.item ul {
+    padding-left: 1.5rem; 
+    margin: 0;  
+    list-style-type: disc;  
+}
+
+.item ul li {
+    margin-bottom: 0.5rem; 
+}
+
+.hack-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    padding-top: 45px;
+}
+  
+.hack-card-section {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.hack-card {
+    background-color: #2E3105;
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    font-family: "Roboto Flex", serif;
+    width: 200px;
+}
+
+.hack-card span {
+    display: block;
+    font-size: 1rem;
+    font-weight: normal;
+    margin-top: 1rem;
+}
+
+.center-section {
+    text-align: center;
+}
+
+.center-section h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: "Roboto Flex", serif;
+    margin: 0;
+}
+
+.center-section p {
+    font-size: 1rem;
+    color: #333;
+    font-family: "Roboto Flex", serif;
+    margin: 0.5rem 0 0;
+}
